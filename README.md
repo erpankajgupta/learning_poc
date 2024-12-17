@@ -1,4 +1,4 @@
 # learning_poc
 Read me file for Learning project
 <br>
-Author: Pankaj
+Author: Pankaj Gupta (PoC)
